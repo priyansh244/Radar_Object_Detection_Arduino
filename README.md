@@ -47,16 +47,17 @@ Creating dynamic UIs with Processing
 Debugging and optimizing embedded systems
 
 📷 View the circuit diagram here:
-Ckt_Diagram.jpg
+👉 Ckt_Diagram.jpg
 
 🎥 Watch the live working demo here:
-Radar (1).mp4
+👉 Radar (1).mp4
 
 🔧 Check out the Arduino code here:
-radar_system.ino.ino
+👉 radar_system.ino.ino
 
 💻 Check out the Processing visualization code here:
-radar_visualization_pde.pde
+👉 radar_visualization_pde.pde
+
 💬 Future Scope
 
 “This is just the beginning — I’m excited to take this further into advanced automation, wireless data transfer, and smart environments.”
