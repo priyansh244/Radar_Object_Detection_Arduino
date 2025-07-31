@@ -48,7 +48,7 @@ Debugging and optimizing embedded systems
 
 📷 View the circuit diagram here: 👉 [Ckt_Diagram.jpg](https://github.com/priyansh244/Radar_Object_Detection/blob/main/Ckt_Diagram.jpg)  
 🎥 Watch the live working demo here: 👉 [Radar (1).mp4](https://github.com/priyansh244/Radar_Object_Detection/blob/main/Radar%20%281%29.mp4)  
-🔧 Check out the Arduino code here: 👉 [radar_system.ino.ino](https://github.com/priyansh244/Radar_Object_Detection/blob/main/radar_system.ino.ino)  
+🔧 Check out the Arduino code here: 👉 [radar_system.ino](https://github.com/priyansh244/Radar_Object_Detection/blob/main/radar_system.ino)  
 💻 Check out the Processing visualization code here: 👉 [radar_visualization_pde.pde](https://github.com/priyansh244/Radar_Object_Detection/blob/main/radar_visualization_pde.pde)
 
 
